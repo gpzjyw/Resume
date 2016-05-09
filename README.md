@@ -1,4 +1,4 @@
-# **简历**
+# **Resume**
 
 ## 基本信息
 
@@ -76,3 +76,12 @@ JavaScript，HTML，CSS，Git，MATLAB。
 在平常的前端学习中，会对一些内容和知识点进行整理和归纳，以不断深化对基础知识点和相关技术的认识和了解。
 
 总体而言，在踩过一些坑之后，有着清晰且明确的前端学习路线。
+
+## 书籍阅读
+
+- [《JavaScript高级程序设计（第3版）》](https://book.douban.com/subject/10546125/)
+- [《JavaScript语言精粹》](https://book.douban.com/subject/11874748/)
+- [《JavaScript DOM编程艺术（第2版）》](https://book.douban.com/subject/6038371/)
+- [《锋利的jQuery》（第2版）](https://book.douban.com/subject/10792216/)
+- [《单页Web应用 JavaScript从前端到后端》](https://book.douban.com/subject/25986284/)
+- [《图解HTTP》](https://book.douban.com/subject/25863515/)
