@@ -14,9 +14,35 @@
 
 ## 技术能力
 
-JavaScript，HTML，CSS，Git，MATLAB。
+基础技能: JavaScript, HTML, CSS
+
+前/后端模板: Freemarker, jst
+
+框架/库: NEJ, jQuery
+
+CSS预处理器: MCSS
+
+版本控制工具: Git
+
+其它: MATLAB
 
 ## 实践经历
+
+### 网易杭州研究院博客产品部，前端开发实习生
+
+#### **简介**
+
+从事二次元社交产品GACHA的前台页面和后台管理页面的前端开发工作，所做的工作如下：
+
+- 网站SEO：关键词优化，网站地图；
+- 管理后台开发：使用jQuery进行DOM操作，表单提交，发起Ajax请求；
+- 部分活动页面开发：移动端页面（flex布局），移动端活动入口（通用链接跳转）。
+
+#### **收获**
+
+- 通过遵循团队的开发规范，代码风格更加规范；
+- 在实际场景中用到了平时所学的知识点，加深了对基础知识点的认识和理解；
+- 前端工程师不仅仅是敲代码，作为团队中的一员，还需要与后端、移动端、交互、视觉、策划等成员交流各种问题。
 
 ### [网易云课堂Web开发实践](https://github.com/gpzjyw/webFrontEndHomework/tree/master/webFrontEndDevelopment)
 项目地址： https://github.com/gpzjyw/webFrontEndHomework/tree/master/webFrontEndDevelopment
@@ -60,6 +86,13 @@ JavaScript，HTML，CSS，Git，MATLAB。
 
 - 运用JavaScript实现的扫雷小游戏，可切换三种模式（9x9，16x16，16x30）；
 - 运用事件代理提升了页面性能，通过检测事件对象的属性判断左右键点击操作。
+
+## **学生工作**
+
+2014年9月——2015年9月，浙江工业大学信息工程学院研究生会发展互助会部长。
+
+- 主要负责学院就业和创业相关的一系列活动；
+- 主办了"研究生就业交流会"、"腾讯创业基地走进浙工大"、"电信云时代的使命召唤"等活动。
 
 ## 科研成果
 
